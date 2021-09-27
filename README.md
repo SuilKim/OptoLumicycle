@@ -1,1 +1,2 @@
 # OptoLumicycle
+This code accompanies the Kim and McMahon manuscript submission <i>"Light sets the brain’s daily clock by regional quickening and slowing of the molecular clockworks at dawn and dusk."</i> It allows for interfacing between the Lumicycle data collection program (Actimetrics) and a signal generator program so that a modified luminometer Lumicycle can employ <i> in situ</i> optogenetic stimulation of brain slices at various intervals while recording bioluminescence from the slices.
